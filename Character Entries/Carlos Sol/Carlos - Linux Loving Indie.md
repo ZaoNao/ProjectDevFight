@@ -1,4 +1,4 @@
-sCharacter Entry by lordsolrac2
+Character Entry by lordsolrac2
 
 lordsolrac/LSolrac2 is the creator of Project DevFight, the current maintainer
 and concept artist of said project. However his main project is "The Lords".
