@@ -8,9 +8,7 @@ and concept artist of said project. However his main project is "The Lords".
 Name :: Carlos E. Orama
 Title :: The Linux Loving Indie
 Modes :: Human, Neonic Fragment
-Weapons ::
-* Swords (Short Range)
-* Magic (Long Range)
+Weapons :: Swords (Short Range) & Magic (Long Range)
 
 ## Song List ::
 
