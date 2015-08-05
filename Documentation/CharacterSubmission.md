@@ -10,6 +10,7 @@ two 'products')
 # Character Rules
 
 ### IT'S IMPORTANT THAT EVERY CHARACTER HAS IT'S OWN COPYRIGHT
+
 In order to keep the game balance, we ask all creators
 to keep their characters "Non-Broken". As in, nothing
 Over-Powered or similar. (That's what the RageDrive is
@@ -19,7 +20,15 @@ A Character Import/Submission must have ::
 * The Drawings to tell how the character looks
   * Preferably a T-Pose drawing as well, for modeling
 
-* The Submission File (Check the Character Entries)
+* The Character Description (Check the Character Entries)
+  * Name; Title
+    * Which project does the character comes from
+  * Description if any
+  * Character story (Optional)
+  * Introduction to the Game's Story
+    * Connection with Other characters
+    
+* The Character File (Check the Character Entries)
   * Name; Title     (Example; Carlos, The Linux Loving Indie)
   * Character Modes (Normal; EX Mode Title)
   * Weapons         (Example; Swords/Guns)

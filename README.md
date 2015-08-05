@@ -22,13 +22,11 @@ version that will be completed as a game yet. Thus the project is open
 new ideas.~~
 
 Long story short ::
-                    You make content (Character, Map, Texture, Song, etc)
-                    and we'll add it to the game.
 
-                    The game is JRPG-esque, but it's also an open field
-                    fighting game.
+You make content (Character, Map, Texture, Song, etc) and we'll add it to the
+game. The game is JRPG-esque, but it's also an open field fighting game.
 
-        More Detailed Info will be added regarding technical details.
+More Detailed Info will be added regarding technical details.
 
 
 
@@ -39,8 +37,6 @@ we're taking new submissions. These include::
 * [Levels and Assets](./Documentation/LevelSubmission.md)
 * Music Composition
 * And Such (More to be documented)
-
-
 
 
 # Updates and Reunions

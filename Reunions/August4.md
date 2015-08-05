@@ -15,14 +15,15 @@ August 4 Reunion ::
 
 * LOOKING :: Composers
 
-          === Game Schedule Thus Far ====
+## Game Schedule Thus Far
+
 * Create Ideas
   * Ideas that might be implemented into Game
 
 * Creators :: Draw, and Define their Characters
   * Character Mass Submission :: August 18 (The Next Reunion)
   * If Can't Model, at least have the Concept Art in T Pose so another person   can model it.
-    * Contact me if you can't find anyone to draw it and/or model it for you
+    * Contact [Carlos](https://www.facebook.com/Lordsolrac2) if you can't find anyone to draw it and/or model it for you
   * Name, Title, Description, Move set
 
   # Extras
