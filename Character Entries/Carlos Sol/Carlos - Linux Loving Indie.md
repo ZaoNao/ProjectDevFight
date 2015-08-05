@@ -1,18 +1,18 @@
-Character Entry by lordsolrac2
+sCharacter Entry by lordsolrac2
 
 lordsolrac/LSolrac2 is the creator of Project DevFight, the current maintainer
 and concept artist of said project. However his main project is "The Lords".
 
-# Character Entry
+## Character Entry
 
 Name :: Carlos E. Orama
 Title :: The Linux Loving Indie
 Modes :: Human, Neonic Fragment
 Weapons ::
-* Swords (Short Range)
-* Magic (Long Range)
+		* Swords (Short Range)
+		* Magic (Long Range)
 
-## Song List
+Song List ::
 	Normal (Human) Mode ::
 	"War - Shadows of Death over there" - Staeheadz (Aether + ECE-SMZ)
 	"The End of Raging Winds" - Etrian Mystery Dungeon (Atlus)
