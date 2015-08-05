@@ -3,6 +3,8 @@
 Project DevFight is a Contrivutive/Colaboration Project.
 The Main Idea behind this project stands as "Creator vs Creation"
 
+The Original Idea was posted over at [Facebook, Here's the Link](https://www.facebook.com/Lordsolrac2/posts/987627294615415?fref=nf)
+
 ## About the Game
 
 Project DevFight is an RPG-Esque, Dissidia-like, Fighting Game.
