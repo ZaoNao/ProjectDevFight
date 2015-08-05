@@ -22,6 +22,7 @@ A Character Import/Submission must have ::
 * The Character Description (Check the Character Entries)
   * Name; Title
     * Which project does the character comes from
+  * Drawings Link (Github's not good with managing images, so just add a link)
   * Description if any
   * Character story (Optional)
   * Introduction to the Game's Story

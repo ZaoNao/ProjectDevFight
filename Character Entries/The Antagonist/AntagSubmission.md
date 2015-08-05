@@ -23,8 +23,12 @@ in search to create his own image of a perfect fighter.
 
 ‪#‎PorjectDevFight‬ The Antagonist; My Entry on the Case
 I've previously had an idea of a "World Eater", but I thought it was too cliche (or at least not good enough). So after Brainstorming for a few days, and even exploring my own universe (From TheLords) I came up with something that I consider messed up and rather glorious for a character.
+
 The Idea consists of a Character (No sex defined) who desired to face and fight gods. Eventually becoming a 'titan', after following his ambition for power, and 'dying' in the void it self, and actually getting bored of clashing with gods in battle, he thought of something more fun than testing strength for mere amusement. This person, thought, "Why not play their role? If I'm already as strong as them, why not do the same thing they can do?"
+
 Eventually, this person got interest in altering fates. Bringing Blessings and Curses to souls available. Thing is, they also got bored of this and wanted even more power (as humanity always does)
+
 So, after surviving or 'conquer' the void for a second time, and traversing through 'Oblivion' in order to be able through travel through the universes, he decides to sacrifice half his life to become a greater god and be able to do so.
+
 So here's some plot;
 This interest got the better of them and thought, why not create a living thing as gods would? So, his creation would not only carry on his legacy as a god, it would also make /it/ the true, ultimate, Final Boss. And would have a piece of each character. Theoretically speaking, it would be more powerful than this antagonist themselves, which is pretty damn powerful if you ask me.
