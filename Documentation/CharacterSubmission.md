@@ -17,10 +17,11 @@ Over-Powered or similar. (That's what the [Rage Drive](./GameFeatures.md) is
 for.)
 
 A Character Import/Submission must have ::
-######File A (CharName Background)
+
 * The Drawings to tell how the character looks
   * Preferably a T-Pose drawing as well, for modeling
-
+  * If you already have a model, then it should be in DAE, OBJ or FBX Format otherwise  a zip/rar file will work just fine.
+######File A (CharName Background)
 * The Character Description (Check the Character Entries)
   * Name; Title
   * Drawings Link (Github's not good with managing images, so just add a link)(Ernest Suggests Dropbox)
