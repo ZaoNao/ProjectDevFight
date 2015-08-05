@@ -8,7 +8,6 @@ submit to the game itself. (aka, various concepts, only
 two 'products')
 
 # Character Rules
-
 ### IT'S IMPORTANT THAT EVERY CHARACTER HAS IT'S OWN COPYRIGHT
 
 In order to keep the game balance, we ask all creators
