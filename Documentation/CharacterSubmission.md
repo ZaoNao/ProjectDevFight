@@ -43,7 +43,7 @@ A Character Import/Submission must have ::
     * Requirements
     * Creator's Comments, if any
 
-## Adding New Characters
+## Adding New Characters to the Project
 
 This documents covers the character submission.
 Though you can upload as many as you need, there
