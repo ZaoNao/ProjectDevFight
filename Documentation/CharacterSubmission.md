@@ -27,7 +27,7 @@ A Character Import/Submission must have ::
   * Character story (Optional)
   * Introduction to the Game's Story
     * Connection with Other characters
-    
+
 * The Character File (Check the Character Entries)
   * Name; Title     (Example; Carlos, The Linux Loving Indie)
   * Character Modes (Normal; EX Mode Title)
@@ -35,7 +35,7 @@ A Character Import/Submission must have ::
   * Song List       [PLACEHOLDER]
   * Move List       [Concept Format, to be updated]
     * Name [Button Combination]
-    * Description + Range
+    * Description + Range (Should explain what the attack is)
     * Damage Range
     * ~~Unlock Requirements~~
     * Requirements
