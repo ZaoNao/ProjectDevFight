@@ -21,7 +21,7 @@ SubmissionStatus refers to what you believe to be how complete the submission is
 
 The submissions can be written in either Markdown (Super easy markup) or raw text, either way, once the submission is added, it will be  passed over as Markdown (to keep it clean)
 
-Approved Ideas can be seen [here](./GameFeatures.md)
+Approved Ideas and Game Features can be seen [here](./GameFeatures.md)
 
 The Submission types do have rules as well.
 * [This is how a character should be written](./CharacterSubmission.md)
