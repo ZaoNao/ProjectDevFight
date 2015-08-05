@@ -61,3 +61,5 @@ Text : (Use * to make the pointers in Markdown)(You can update this over time, j
 * Weapons (Weapon A + B)
 * ~~Song List~~
 * Move List (This should be last, but have it somewhere around)
+
+After being updated into the database, you can see a list of Characters [here](../Character Entries/README.md)
