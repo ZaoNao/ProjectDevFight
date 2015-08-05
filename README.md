@@ -31,14 +31,15 @@ More Detailed Info will be added regarding technical details.
 
 
 ## How can you help?
-Though we're not taking monetary donations (or at least not yet),
+Though we're not taking monetary donations (or at least not yet).
 we're taking new submissions. These include::
 * [Characters](./Documentation/CharacterSubmission.md)
 * [Levels and Assets](./Documentation/LevelSubmission.md)
 * Music Composition
 * And Such (More to be documented)
 
-
+Please note, you need a Github account to add anything new to the project.
+Moreover, it's suggested to read the [Documentation Pages](./Documentation/README.md) for any and all submissions.
 # Updates and Reunions
 
 [First Official Reunion, August 4, '15](./Reunions/August4.md)
