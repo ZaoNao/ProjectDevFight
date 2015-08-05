@@ -17,7 +17,7 @@ Any and all new submissions should be titled alike the following::
 
 SubmissionType can be a; Character, Level, Asset, Idea.
 
-SubmissionStatus reffers to what you believe to be how complete the submission is; Concept, Pre-Alpha, Alpha, Beta, Update, and last; Complete.
+SubmissionStatus refers to what you believe to be how complete the submission is; Concept, Pre-Alpha, Alpha, Beta, Update, and last; Complete.
 
 The submissions can be written in either Markdown (Super easy markup) or raw text, either way, once the submission is added, it will be  passed over as Markdown (to keep it clean)
 
@@ -33,6 +33,12 @@ The same way you would add a submission, you would report a problem. However, if
 
 [ProblemType] ProblemName by YourNameHere
 
-Problem type can be; Game Bugs, Conflicts or anythin similar.
+Problem type can be; Game Bugs, Conflicts or anything similar.
 
 Please describe the problem and if it's a game bug, include a logfile.
+
+
+
+##Contributions and submissions
+
+A list of Contributors and their Contributions/Submissions is found [here](./ContributorsList.md)

@@ -5,14 +5,15 @@ This documents covers the character submission.
 Though you can upload as many as you need, there
 is, however a limit of characters that you can actually
 submit to the game itself. (aka, various concepts, only
-two 'products')
+two 'products') In the case of a new patch, you may update
+these characters or add a new one.
 
 # Character Rules
 ### IT'S IMPORTANT THAT EVERY CHARACTER HAS IT'S OWN COPYRIGHT
 
 In order to keep the game balance, we ask all creators
 to keep their characters "Non-Broken". As in, nothing
-Over-Powered or similar. (That's what the RageDrive is
+Over-Powered or similar. (That's what the [Rage Drive](./GameFeatures.md) is
 for.)
 
 A Character Import/Submission must have ::
@@ -45,18 +46,12 @@ A Character Import/Submission must have ::
 
 ## Adding New Characters to the Project
 
-This documents covers the character submission.
-Though you can upload as many as you need, there
-is, however a limit of chatacters that you can actually
-submit to the game itself. (aka, various concepts, only
-two 'products') IN THE CASE OF DLCs, if applicable,
-you may release two more characters.
 
 To add a new character (IF you're not a maintainer) you need to make a [new issue](https://github.com/lordsolrac/ProjectDevFight/issues/new) and this is how you should write it (So copy and paste it over)
 
 Title : [Character] CharacterName [Version/Status] by YourNameHere
 
-Text : (Use * to make the pointers)(You can update this over time, just have the basics)
+Text : (Use * to make the pointers in Markdown)(You can update this over time, just have the basics)
 * Name; Title
 * Reference Image Link
 * Description (Should include physical Description)
