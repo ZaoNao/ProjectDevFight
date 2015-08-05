@@ -22,7 +22,7 @@ A Character Import/Submission must have ::
 
 * The Character Description (Check the Character Entries)
   * Name; Title
-  * Drawings Link (Github's not good with managing images, so just add a link)
+  * Drawings Link (Github's not good with managing images, so just add a link)(Ernest Suggests Dropbox)
     * Which project does the character comes from
   * Description if any (Should include physical Description)
   * Character story (Optional)
