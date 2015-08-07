@@ -22,13 +22,13 @@ With the DualShock and Xbox Controllers being compatible with PC, it would only 
 #####Arcade Stick (Not Exactly Recomended)
 As usual, Professional Casuals (As Addressed by Carlos E.O.) use a 8 button arcade stick. Considering that there are 6 main controls, it can be done, however it would lack camera movement, and Enabling/Disabling Rage Mode would also be rather bothersome. So, a person with an arcade stick would have to help us out on this one.
 
-#####~~GLORIOUS~~ PC ~~Master Race~~
+#####~~GLORIOUS~~ PC ~~Master Race~~Ctrl-Shift-lk
 Considering that PC is the Development Platform. It only make sense that those without a controller, or prefer traditional PC gaming style; I (Carlos E.O.) came up with a control setup. However these can be and might be changed at any time (if so, we'll update this file.)
 
 * W-A-S-D Keys  :: Movement
 * Space :: Jump
-* Mouse :: Camera Rotation
-* M1,M2,M3 (Mouse Buttons) :: Primary Action Buttons
+* Mouse :: Camera RotationCtrl-Shift-lk
+* M1,M2,M3 (Mouse Buttons) :: Primary Action ButtonsCtrl-Shift-lk
 * Tab :: Enable/Disable Rage Mode
 * Shift :: Walk (Since the player might be running for the most part)
 * Backspace :: Lock Camera

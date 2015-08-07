@@ -7,12 +7,23 @@ Project DevFight is a growing project, having at least one new member, or a pers
 * The Game Controls can be found [Here](./GameControls.md)
 * The List of Confirmed Characters can be found [Here](../Characer Entries/README.md)
 
+##  What's this about?
+Project DevFight is a  JRPG-Esque Open Field Fighting Game. You can read more on the [Main Page](../README.md)
+
+The game's initial concept stands as; Creator vs Creation; meaning, if You have a character ~~with their own story~~, you can have yourself have yourself as a playable character along with your characters.
+
+The Story Thus far; [A Man](../Character Entries/The Antagonist/AntagSubmission.md) grew tired of the things life has to offer, and grew curious of upper beings, and their lifestyles, getting bored of this as well, he decides to clash with them in games of wits and strength.
+
+After centuries of doing so, he also got bored, but got interested in their roles. Still being half-human, he was unable to bring blessings or curses to the 'lower beings', however the strength and power he had achieved allowed him to do something bigger.
+
+He decided explore the different universes and dimensions at his reach, and merge pieces of them into a new one for his own liking. Where he confront new challenges, and make his own creations to grow or fight...
+
 ## I wanna make a submission!!
 We want you to make a submission too! However, in order to keep this organized, we need you to follow a few rules.
 
 #####To add a new submission
-* You need a github account.
-  * Make a new [issue](https://github.com/lordsolrac/ProjectDevFight/issues/new)
+* You need a github account.  
+  * Make [a new issue](https://github.com/lordsolrac/ProjectDevFight/issues/new)
   * It must have a tag in order for the  maintainers to know what it is
 
 Any and all new submissions should be titled alike the following::

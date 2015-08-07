@@ -1,5 +1,4 @@
-
-# Adding New Characters
+## Adding New Characters
 
 This documents covers the character submission.
 Though you can upload as many as you need, there
@@ -7,6 +6,8 @@ is, however a limit of characters that you can actually
 submit to the game itself. (aka, various concepts, only
 two 'products') In the case of a new patch, you may update
 these characters or add a new one.
+
+We already have a list of [Characters here](../Character Entries/README.md)
 
 # Character Rules
 ### IT'S IMPORTANT THAT EVERY CHARACTER HAS IT'S OWN COPYRIGHT
@@ -60,6 +61,6 @@ Text : (Use * to make the pointers in Markdown)(You can update this over time, j
 * Character Modes
 * Weapons (Weapon A + B)
 * ~~Song List~~
-* Move List (This should be last, but have it somewhere around)
+* ~~Move List~~ (This should be last, but have it somewhere around, please keep in mind [we have a concept for the controls](./GameControls.md))
 
-After being updated into the database, you can see a list of Characters [here](../Character Entries/README.md)
+After being completed, or at least having a near-complition state, it should be in the list of Characters [here](../Character Entries/README.md)
