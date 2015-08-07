@@ -20,3 +20,10 @@
   * While leveling up skills, relative stats will increase
     * If a combo/skill does offensive damage, the relative attribute will slowly increase (STR/DMG)
     * If a skill such as healing is improved, so will the HP and VIT
+
+
+* Story Mode One-Run (Jose Miguel Vazquez, Fernando Curras, Eduardo Toro)
+ * Story is not exactly linear, however, you would unlock characters along the way
+    * In case that the newly unlocked characters are not used, they would be locked temporarily and would require a way to recover them.
+    * These character can level up skills just as discussed above, though they might need to be balanced.
+      * This would give a bit of replay value as some of the characters COULD be switched to another character (like in SMvC3)
