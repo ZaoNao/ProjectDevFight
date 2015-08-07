@@ -32,28 +32,6 @@ Considering that PC is the Development Platform. It only make sense that those w
 * Backspace :: Lock Camera
 * Control :: Secondary Buttons
 
-#####~~Mobile~~
-Carlos E.O. Had presented the idea for a mobile version of the game, this would not only make the game portable, it would also make Multiplayer a lot easier (or at least visually). The HUD would be above, where as the controls would be all below.
-
-* A analog-like navigation button for movement
-* 6 Main Buttons (For action) + 1 for Jumping
-* The Camera can be rotated by sliding anywhere that's not the UI
-* Rage Mode can be activated by tapping the Character icon (next to HP/MP bars)
-* Secondary Buttons would be another thing (maybe D-Keys around the move button)
-* Camera Lock would be activated by Tapping the enemy or their Icon
-
-
-#####~~*NEW* Nintendo 3DS~~
-An was never spoken but was kept under, as it's the alternate to the Dualshock Controller Scheme. The Screen above would be the Game Screen with a minimalistic HUD would be at the bottom side. The Bottom Screen would serve as a UI Screen, where  The complete HUD on upper side of the screen, A Mini map in the center, and Menus on the bottom
-
-* Left Analog Stick :: Movement
-* Right Analog Stick :: Camera Rotation
-* Primary Buttons + L & R:: Primary Action Buttons
-* Tap Character Icon :: Enable/Disable Rage Mode
-* Directional Keys :: Secondary Buttons
-* L+R :: Camera Lock
-* Tap Screen :: Jump
-
 
 **** Things Not discussed After Here (Aug7) ****
 ##Gameplay - The Standards
