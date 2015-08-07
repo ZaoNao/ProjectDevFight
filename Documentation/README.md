@@ -2,6 +2,10 @@
 
 Project DevFight is a growing project, having at least one new member, or a person interested per day. (Start - August 5th) However, a lot of these people have no idea of how to join the team or add a submission. That's why this document exists, to let newcomers join the development.
 
+* A List Of Contributors, Devs, Creators and Artists can be found [Here](./ContributorsList.md)
+* There's already a list of Game Features (Confirmed Ideas and Concepts) [Here](./GameFeatures.md)
+* The Game Controls can be found [Here](./GameControls.md)
+* The List of Confirmed Characters can be found [Here](../Characer Entries/README.md)
 
 ## I wanna make a submission!!
 We want you to make a submission too! However, in order to keep this organized, we need you to follow a few rules.

@@ -2,7 +2,7 @@
 
 #####Discussed And Approved Ideas
 
-* Rage Mode (Carlos Orama)
+* Rage Mode (Carlos E.O.)
   * By completing certain moves, or recieve damage or grab a bonus, the Rage meter will increase little by little. Rage Level can only go up to 5.
   * Rage Count can be decreased by certain skill as a cost (just like magic needs  MP)
   * Rage is "available" once a level is complete. Meaning, once the first gauge is filled, level 1 is "enabled"

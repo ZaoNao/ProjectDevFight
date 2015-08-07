@@ -5,6 +5,7 @@ The Main Idea behind this project stands as "Creator vs Creation"
 
 The Original Idea was posted over at [Facebook, Here's the Link](https://www.facebook.com/Lordsolrac2/posts/987627294615415?fref=nf)
 
+The Whole Documentation can be found [here](./Documentation/README.md), if you have any questions, [Carlos E.O. The Project Manager](https://www.facebook.com/Lordsolrac2)
 ## About the Game
 
 Project DevFight is an RPG-Esque, Dissidia-like, Fighting Game.
@@ -35,7 +36,7 @@ More Detailed Info will be added regarding technical details.
 ## How can you help?
 Though we're not taking monetary donations (or at least not yet).
 we're taking new submissions. These include::
-* [Characters](./Documentation/CharacterSubmission.md)
+* [Characters](./Documentation/CharacterSubmission.md) - Here's a list of [Comfirmed Characters](./Character Entries/README.md)
 * [Levels and Assets](./Documentation/LevelSubmission.md)
 * Music Composition
 * And Such (More to be documented)
