@@ -2,7 +2,7 @@
 
 The Controls are a bit of an unselected decision as of current.
 
-There are few Kinds of Control Schemes Available; DualShock, Arcade Stick, PC, ~~Mobile and 3DS~~
+There are few Kinds of Control Schemes Available; DualShock, Arcade Stick, PC, [~~Mobile and 3DS~~](https://github.com/lordsolrac/ProjectDevFight/issues/3)
 
 #####DualShock - The Original Idea
 With the DualShock and Xbox Controllers being compatible with PC, it would only be logical to have them as a controller option.
