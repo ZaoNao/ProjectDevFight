@@ -46,3 +46,5 @@ Moreover, it's suggested to read the [Documentation Pages](./Documentation/READM
 # Updates and Reunions
 
 [First Official Reunion, August 4, '15](./Reunions/August4.md)
+
+Next  Skype Reunion is August 18, 2015, 1:30PM
