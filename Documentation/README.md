@@ -5,7 +5,7 @@ Project DevFight is a growing project, having at least one new member, or a pers
 * A List Of Contributors, Devs, Creators and Artists can be found [Here](./ContributorsList.md)
 * There's already a list of Game Features (Confirmed Ideas and Concepts) [Here](./GameFeatures.md)
 * The Game Controls can be found [Here](./GameControls.md)
-* The List of Confirmed Characters can be found [Here](../Characer Entries/README.md)
+* The List of Confirmed Characters can be found [Here](../Charatcer Entries/README.md)
 
 ##  What's this about?
 Project DevFight is a  JRPG-Esque Open Field Fighting Game. You can read more on the [Main Page](../README.md)

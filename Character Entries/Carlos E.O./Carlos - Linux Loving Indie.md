@@ -4,7 +4,7 @@ lordsolrac/LSolrac2 is the creator of Project DevFight, the current maintainer
 and concept artist of said project. However his main project is "The Lords".
 
 ## Character Entry
-#####OUTDATED, Needs to be updated to newer format.
+##### OUTDATED, Needs to be updated to newer format.
 
 Name :: Carlos E.O.
 Title :: The Linux Loving Indie
@@ -30,7 +30,7 @@ Weapons :: Swords (Short Range) & Magic (Long Range)
 	* "Bloody Fight - Betting it All (FM Version)" - Etrian Untold 2 (Atlus)
 
 
-##Move List
+## Move List
 
 * Sword Slash [A]
 	* Basic Sword Slashing (L)

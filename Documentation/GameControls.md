@@ -1,10 +1,18 @@
-##Project DevFight Controls and Gameplay
+## Project DevFight Controls and Gameplay
 
 The Controls are a bit of an unselected decision as of current.
 
 There are few Kinds of Control Schemes Available; DualShock, Arcade Stick, PC, [~~Mobile and 3DS~~](https://github.com/lordsolrac/ProjectDevFight/issues/3)
 
-#####DualShock - The Original Idea
+#### Button Setting Translation
+* Action Buttons (Keyboard/Dualshock/~~3DS?~~)
+* A/1/Cross   /A/
+* S/2/Circle  /B/
+* Z/3/Square  /X/
+* X/3/Triangle/Y/
+
+
+##### DualShock - The Original Idea
 With the DualShock and Xbox Controllers being compatible with PC, it would only be logical to have them as a controller option.
 
 * Left Analog Stick :: Movement
@@ -17,10 +25,10 @@ With the DualShock and Xbox Controllers being compatible with PC, it would only 
 * R3 :: Lock Camera (If possible)
 * L3 :: Jump
 
-#####Arcade Stick (Not Exactly Recomended)
+##### Arcade Stick (Not Exactly Recomended)
 As usual, Professional Casuals (As Addressed by Carlos E.O.) use a 8 button arcade stick. Considering that there are 6 main controls, it can be done, however it would lack camera movement, and Enabling/Disabling Rage Mode would also be rather bothersome. So, a person with an arcade stick would have to help us out on this one.
 
-#####~~GLORIOUS~~ PC ~~Master Race~~
+##### ~~GLORIOUS~~ PC ~~Master Race~~
 Considering that PC is the Development Platform. It only make sense that those without a controller, or prefer traditional PC gaming style; I (Carlos E.O.) came up with a control setup. However these can be and might be changed at any time (if so, we'll update this file.)
 
 * W-A-S-D Keys  :: Movement
